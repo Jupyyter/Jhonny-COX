@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Bullet
+  - Jhonny
+  - Gangster
+  - Tiles
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Background
+  - Grid
+  - 
+  - Gangster
+  - Jhonny
+  - Bullets
+  - Door
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 4284253279
+    locked: 0
+  - name: Grid
+    uniqueID: 261137829
+    locked: 0
+  - name: Door
+    uniqueID: 3016573179
+    locked: 0
+  - name: normalBullets
+    uniqueID: 595483999
+    locked: 0
+  - name: Gangster
+    uniqueID: 3820712489
+    locked: 0
+  - name: JhonnyBody
+    uniqueID: 2419872117
+    locked: 0
+  - name: JhonnyHands
+    uniqueID: 163328201
+    locked: 0
+  - name: Bullet
+    uniqueID: 2863205513
+    locked: 0
+  - name: Bullet
+    uniqueID: 0
+    locked: 0
